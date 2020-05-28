@@ -19,7 +19,7 @@ body {
 justify-content: stretch;        padding-bottom: auto;
 
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:700px){
 
     .ah1{
         font-weight: 400;
