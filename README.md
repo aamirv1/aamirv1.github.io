@@ -11,15 +11,13 @@ As a software engineering student, I have been working with the latest tech stac
 You can find me on various social media platforms. Here are the links to my profiles:
 
 - [LinkedIn](https://www.linkedin.com/in/aamirv1/)
-- [GitHub](https://github.com/aamirv1)
 - [Twitter](https://twitter.com/aamirv1)
 - [Peerlist](https://peerlist.io/aamir)
-- [Instagram](https://instagram.com/aamirv1)
-- [Facebook](https://www.facebook.com/aamirkhanv1)
+- [GitHub](https://github.com/aamirv1)
 
-# Blogs
+<!-- # Blogs
 
-I write about various topics that interest me. You can find all of my blog posts on my personal blog.
+I write about various topics that interest me. You can find all of my blog posts on my personal blog. -->
 
 # Contact
 
