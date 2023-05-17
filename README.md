@@ -21,4 +21,4 @@ I write about various topics that interest me. You can find all of my blog posts
 
 # Contact
 
-If you want to get in touch with me, you can send me an email at [hi@aamirv1.in](mailto:hi@aamirv1.in) or reach out to me on [Twitter](https://twitter.com/aamirv1).
+You can get in touch with me on [Twitter](https://twitter.com/aamirv1) or reach out to me on [hi@aamirv1.in](mailto:hi@aamirv1.in).
