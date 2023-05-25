@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /logs/
+Disallow: /backup/
+Disallow: /cache/
+Disallow: /uploads/
+Disallow: /download/
+Disallow: /fonts/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /images/
+Disallow: /videos/
+
+Allow: /meet
+Allow: /blogs
+Allow: /socials
+
+Sitemap: https://aamirv1.in/sitemap.xml
+
+# Favicon
+Sitemap: https://aamirv1.in/favicon.ico
