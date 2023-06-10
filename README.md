@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository contains all the information about me, 
 
 # Portfolio
 
-As a software engineering student, I have been working with the latest tech stacks including `React`, `Node`, and `Golang`. I have completed several projects and gained practical experience while interning at JPMorgan Chase & Co and [Digileaf](https://digileaf.in/). I am currently serving as an event coordinator at [GDG Bhopal](https://gdgbhopal.com/), where I organize various events to promote technology and innovation in the community.
+As a software engineering student, I have been working with the latest tech stacks including `React`, `Node`, and `Golang`. I have completed several projects and gained practical experience while interning at JPMorgan Chase & Co . I am currently serving as an event coordinator at [GDG Bhopal](https://gdgbhopal.com/), where I organize various events to promote technology and innovation in the community.
 
 # Social Links
 
