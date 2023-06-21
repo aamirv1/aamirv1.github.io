@@ -1,4 +1,0 @@
-{
-  "rewrites": [{ "source": "/(.*)", "destination": "/$1.html" }],
-  "redirects": [{ "source": "/v1", "destination": "https://v1.aamir.tech" }]
-}
